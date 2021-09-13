@@ -1,1 +1,1 @@
-# Suumer-Olympics-Analysis-using-PANDAS-Lib
+# Summer-Olympics-Analysis-using-PANDAS-Lib
